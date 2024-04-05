@@ -1,0 +1,53 @@
+*{
+    margin:0;
+}
+#logo1{
+    display:inline;
+   
+}
+img{
+    display:inline-block;
+}
+#h1t{
+    display:inline-block;
+    align-items: center;
+    margin-left:0px;
+    border-bottom: 100px;
+    color:white;
+    font-size: 50px;
+    
+}
+#nav22{
+    top: 0;
+    display:inline;
+    position:absolute;
+    margin-top:50px;
+}
+ul{
+    display:inline;
+    border-left:0%;
+}
+li{
+    display:inline;
+    margin:10px;
+
+}
+#nav22{
+    margin-left:25%;
+    justify-content:flex-end
+}
+#bg222{
+    margin-top: 50px;
+    margin-left:40%;
+    position:absolute;
+    align-items:center;
+
+    width: 100%;
+    height:20%;
+       
+}
+marquee{
+    color: white;
+    display: block;
+    font-size: 20px;
+}
